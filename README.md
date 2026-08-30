@@ -1,5 +1,8 @@
 IntervAI
 An AI-powered mock interview platform that helps candidates practice role-based interviews, receive AI-driven feedback, analyze performance, and track interview history.
+🌐 Live Demo
+Frontend: https://intervai-client-ts84.onrender.com  
+Backend API: https://intervai-k4hm.onrender.com
 ✨ Features
 Google Authentication – Sign in using Google through Firebase Authentication.
 Role & Experience Based Interviews – Configure interviews by job role, experience level, and interview type.
